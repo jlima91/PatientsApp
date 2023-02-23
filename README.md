@@ -20,7 +20,7 @@ This project was a request from a intern dorctor that needed a small app connect
 ## 💡 About the project
 
 ```
-Created with WFP .NET, this application is connected to a data base and allows the user to store a patient's clinic history in the database. It allows many 
+Created with WFP .NET, this application is connected to a data base and allows the user to store a patient's clinic history in the database. 
 ```
 
 
